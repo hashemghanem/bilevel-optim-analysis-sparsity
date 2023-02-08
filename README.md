@@ -23,3 +23,4 @@ after replacing ```name_of_script ``` by the name of the according script from t
 ```
 python -u plot_fig1_varying_noise_amplitude.py
 ```# bilevel-optimization-of-analysis-sparsity-priors
+# bilevel-optimization-of-analysis-sparsity-priors
