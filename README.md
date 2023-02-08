@@ -19,7 +19,7 @@ To run the script that generates a figure in the published paper, execute the fo
 ```
 python -u name_of_script.py
 ```
-after replacing ```name_of_script ``` by the name of the according script from the three ones we provode here. For example to reproduce figure 1:
+after replacing ```name_of_script ``` by the name of the according script from the three ones we provide here. To reproduce figure 1 for example :
 ```
 python -u plot_fig1_varying_noise_amplitude.py
 ```
